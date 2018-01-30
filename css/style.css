@@ -26,6 +26,10 @@ section {
   max-height: 800px;
 }
 
+.page-header {
+  margin-bottom: 30px;
+}
+
 .me {
   font-size: 24px;
   font-weight: bold;
